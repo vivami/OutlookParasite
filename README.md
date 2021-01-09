@@ -1,6 +1,6 @@
 # OutlookParasite
 
-This is a method that misuses Outlook Add-in functionality to obtain (unprivileged) persistence using Outlook (or other Office programs). This method also bypasses the "ClickOnce" install pop-up that you'd normally get when installing an unsigned Outlook Add-in. This is pretty stealth I guess, since you're living inside an Outlook process and are started once Outlook is started by the user (every morning?). It's also not detected by Sysinternals' Autoruns.
+This is a method that misuses Outlook Add-in functionality to obtain (unprivileged) persistence using Outlook (or other Office programs). This method also bypasses the "ClickOnce" install pop-up that you'd normally get when installing an unsigned Outlook Add-in. This is pretty stealth I guess, since you're living inside an Outlook process and are started once Outlook is started by the user (every morning?). It's also not detected by Sysinternals' Autoruns. More information [here](https://vanmieghem.io/stealth-outlook-persistence/)
 
 ## Usage
 
